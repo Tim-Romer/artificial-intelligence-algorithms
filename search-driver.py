@@ -1,4 +1,4 @@
-from search import breadthfirstsearch, depthfirstsearch
+from uninformed_search.search import breadthfirstsearch, depthfirstsearch
 from Node import Node
 
 def main():
